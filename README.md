@@ -1,4 +1,4 @@
-# learning-portfolio
+# AI & Emerging Technology 
 
 
 What emerging technology did you choose? How is AI being used to support this technology?
